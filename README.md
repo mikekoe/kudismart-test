@@ -1,6 +1,7 @@
 # kudismart
 
-A smart personal finance management platform that helps individuals gain visibility into their money, track expenses, manage bills, monitor subscriptions, and make better financial decisions through actionable insights **
+[Click here to view](https://kudismart.com/).
+A smart personal finance management platform that helps individuals gain visibility intoi their money, track expenses, manage bills, monitor subscriptions, and make better financial decisions through actionable insights 
 
 
 ## Overview
@@ -16,18 +17,18 @@ KudiSmart was built to solve this problem by providing a centralized platform wh
 **Manage wallet transactions**
 **Improve budgeting decisions**
 
-*** It is still in MVP phase
+_It is still in MVP phase_
 
 ## MVP Features
-**Authentication and Onboarding**
-**Savings Plan**
-**Dashboard**
-**Transactions**
-**Bills**
-**AI Reports**
-**Settings**
+**Authentication and Onboarding\
+**Savings Plan\
+**Dashboard\
+**Transactions\
+**Bills\
+**AI Reports\
+**Settings
 
-##Testing Cycle
-**Manual Testing
-***Functional Testing: User story creation, Test scenario and Test case, Test execution
+## Testing Cycle
+### Manual Testing
+***Functional Testing: User story creation, Test scenario and Test case, Test execution\
 ***Regression Testing
